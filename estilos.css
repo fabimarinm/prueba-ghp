@@ -1,0 +1,9 @@
+/*  */
+/*
+Incluidos los comentarios de codigo
+*/
+.border-box{
+    border: solid 1px black;
+    margin: 50px;
+    padding: 20px;
+}
